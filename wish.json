@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Alice",
+        "message": "Happy Birthday! Hope you have an amazing day!",
+        "image": "images/alice.jpg"
+    },
+    {
+        "name": "Bob",
+        "message": "Wishing you all the best on your special day!",
+        "image": "images/bob.jpg"
+    },
+    {
+        "name": "Charlie",
+        "message": "May all your dreams come true this year!",
+        "image": "images/charlie.jpg"
+    }
+]
